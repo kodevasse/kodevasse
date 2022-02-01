@@ -9,7 +9,7 @@ I am Per from Norway.
 📫 How to reach me 
 <p align="center">
   <a href="http://twitter.com/pdpkrypto">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/twitter/follow/pdpkrypto?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
 <!--
