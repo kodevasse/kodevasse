@@ -3,7 +3,7 @@
 I am Per from Norway.
 🌱 I’m currently learning Vuejs3, HTML/CSS, Javascript, Solidity and hardhat.
 
-⚡ Fun fact: I did HTML, css and .NET back in 2004😁
+⚡ Fun fact: I did HTML, CSS and .NET back in 2004😁
 
 
 📫 How to reach me 
