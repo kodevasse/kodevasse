@@ -11,7 +11,7 @@ Follow me as I navigate the ups and downs of learning to code and building proje
 📫 How to reach me 
 <p align="center">
   <a href="http://twitter.com/0xPDP">
-    <img src="https://img.shields.io/twitter/follow/pdpkrypto?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/twitter/follow/0xPDP?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
 <!--
