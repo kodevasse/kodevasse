@@ -1,9 +1,11 @@
-### Hi there 👋
+### 
 
-I am Per from Norway.
-🌱 I’m currently learning Vuejs3, HTML/CSS, Javascript, Solidity and hardhat.
+I am Per from Norway. 👋
 
-⚡ Fun fact: I did HTML, CSS and .NET back in 2004😁
+As a beginner in the world of coding, I'm eager to learn as much as I can about web development, Vue.js, and blockchain.
+
+I'm passionate about sharing my journey with others and hope to inspire others to join me in learning and growing as developers.
+Follow me as I navigate the ups and downs of learning to code and building projects from the ground up."
 
 
 📫 How to reach me 
