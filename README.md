@@ -2,11 +2,10 @@
 
 I am Per from Norway. 👋
 
-As a beginner in the world of coding, I'm eager to learn as much as I can about web development, Vue.js, and blockchain.
+As a modern wizard, I have access to the magical powers of web3 and blockchain. 
+Join me as I share my knowledge and skills with you, unlocking the secrets of coding and programming along the way. 
 
-I'm passionate about sharing my journey with others and hope to inspire others to join me in learning and growing as developers.
-Follow me as I navigate the ups and downs of learning to code and building projects from the ground up."
-
+Follow me on my journey through the mystical world of web3 and blockchain, and discover the magic of technology for yourself.
 
 📫 How to reach me 
 <p align="center">
