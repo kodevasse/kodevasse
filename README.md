@@ -9,8 +9,8 @@ Follow me on my journey through the mystical world of web3 and blockchain, and d
 
 📫 How to reach me 
 <p align="center">
-  <a href="http://twitter.com/Web3Per">
-    <img src="https://img.shields.io/twitter/follow/Web3Per?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="http://twitter.com/Web3Perp">
+    <img src="https://img.shields.io/twitter/follow/Web3Perp?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
 <!--
